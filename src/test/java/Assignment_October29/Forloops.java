@@ -48,7 +48,6 @@ System.out.println("------------------------------------------------------------
 	
 	//sum of first 10 prime numbers
 	int count=1;
-	int s=0;
 	
 	for(int B=2;B<50;B++){
 
