@@ -22,7 +22,7 @@ public static WebDriver driver;
 		driver.manage().window().maximize();
 		driver.get("https://www.facebook.com/");
 		
-		WebElement forgetPasswordLink=driver.findElement(By.xpath("//a[text()='Forgot password?']"));
+	
 		
 				
 		
